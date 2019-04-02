@@ -1,0 +1,7 @@
+D:\18.11.2279\Pertemuan 4 5\letihanMethod\letihanMethod\bin\Debug\letihanMethod.exe.config
+D:\18.11.2279\Pertemuan 4 5\letihanMethod\letihanMethod\bin\Debug\letihanMethod.exe
+D:\18.11.2279\Pertemuan 4 5\letihanMethod\letihanMethod\bin\Debug\letihanMethod.pdb
+D:\18.11.2279\Pertemuan 4 5\letihanMethod\letihanMethod\obj\Debug\letihanMethod.csprojAssemblyReference.cache
+D:\18.11.2279\Pertemuan 4 5\letihanMethod\letihanMethod\obj\Debug\letihanMethod.csproj.CoreCompileInputs.cache
+D:\18.11.2279\Pertemuan 4 5\letihanMethod\letihanMethod\obj\Debug\letihanMethod.exe
+D:\18.11.2279\Pertemuan 4 5\letihanMethod\letihanMethod\obj\Debug\letihanMethod.pdb
